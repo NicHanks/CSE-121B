@@ -1,0 +1,30 @@
+PYTHON
+
+Primitive Values:
+string
+number
+boolean
+null
+undefined
+
+Objects:
+object literals
+Arrays
+Functions
+Classes
+.. basically everything that's not primitive! 
+
+Variables:
+var
+let
+const
+
+c# is strongly typed, 12 ways to type a variable, not just const var ect. in javascript. (javascript is weekly typed)
+coercion is shifting a value of javascript into something else. 
+
+* Arrays in javascript are more like lists in python
+
+learn emmit, lets you do "! + tab" in a index.html file
+
+
+

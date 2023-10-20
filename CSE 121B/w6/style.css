@@ -1,0 +1,31 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#indicator {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+#refreshBtn {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    cursor: pointer;
+}
+
+.up {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.down {
+    background-color: #dc3545;
+    color: #fff;
+}
